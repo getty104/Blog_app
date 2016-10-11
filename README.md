@@ -1,25 +1,7 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Blog_app
+<h1>Blog_app</h1>
+<p>
+Railsの勉強で作成しているアプリケーションです
+現在作成中
+</p>
+<h2>参考サイト</h2>
+<p url="http://railsguides.jp/getting_started.html">Railsガイド</p>
